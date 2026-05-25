@@ -81,7 +81,7 @@ In a production system, this should be improved by using dated financial news he
 
 ## Project Files
 
-- `financial_sentiment_analysis.ipynb` - main notebook
+- `financial_sentiment_analysis-2_fixed.ipynb` - main notebook
 - `financial_sentiment_results.csv` - final sentiment predictions
 - `model_comparison.png` - VADER vs FinBERT confusion matrices
 - `financial_sentiment_insights.png` - final visualization dashboard
@@ -89,3 +89,4 @@ In a production system, this should be improved by using dated financial news he
 ## Conclusion
 
 FinBERT is more suitable than VADER for financial sentiment analysis because it understands financial language and context. This makes it more reliable for analyzing financial news compared to simple lexicon-based sentiment methods.
+
